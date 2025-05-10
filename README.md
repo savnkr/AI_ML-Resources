@@ -79,7 +79,6 @@ Resources for understanding generative AI and large language models.
 
 | Course | Description | Link |
 |--------|-------------|------|
-| **Generative AI 2025** | YouTube playlist exploring generative AI methods. | [Link](https://youtube.com/playlist?list=PLZ2ps__7DhBa5xCmncgH7kPqLqMBq7xlu) |
 | **Learning in Undirected Models** | CS228 notes on undirected graphical models. | [Link](https://ermongroup.github.io/cs228-notes/learning/undirected/) |
 | **GenAI Handbook** | In-depth guide to structured state-space models. | [Link](https://genai-handbook.github.io/#structured-state-space-models) |
 | **LLM Course** | Colab-based roadmap for learning large language models. | [Link](https://github.com/mlabonne/llm-course) |
