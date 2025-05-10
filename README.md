@@ -1,127 +1,174 @@
-# 📘  AI & Machine Learning Course Index
+# 🚀 AI & Machine Learning Course Hub
 
-This repository is a curated list of AI, ML, and related courses**, collected from top universities, researchers, and open resources. 
----
-
-## 🔹 Mathematics for ML
-
-| Course | Description | Link | Progress |
-|--------|-------------|------|----------|
-| Boosting Python (PDE MOOC) | Iterative methods in numerical PDEs | [Link](https://aquaulb.github.io/book_solving_pde_mooc/solving_pde_mooc/notebooks/05_IterativeMethods/05_03_Boosting_Python.html) | 🔲 Not Started |
-| EPFL Mathematics of Data | Math theory behind data analysis | [Link](https://www.epfl.ch/labs/lions/teaching/ee-556-mathematics-of-data-from-theory-to-computation/slides-2024/?s=09) | 🔲 Not Started |
-| MIT Matrix Calculus | MIT IAP 2023 course | [Link](https://www.youtube.com/playlist?list=PLUl4u3cNGP62EaLLH92E_VCN4izBKK6OE) | 🔲 Not Started |
-| Numerical Algorithms | KAIST numerical methods | [Link](https://github.com/anar-rzayev/Numerical-Algorithms) | 🔲 Not Started |
+Welcome to the **AI & Machine Learning Course Hub**, a meticulously curated collection of top-tier courses on Artificial Intelligence, Machine Learning, and related fields. Sourced from leading universities, renowned researchers, and open-access platforms, this repository is your one-stop resource for advancing your knowledge in AI and ML.
 
 ---
 
-## 🔹 Machine Learning Theory
-
-| Course | Description | Link | Progress |
-|--------|-------------|------|----------|
-| ML Theory Class | Theoretical ML course by Stephen Becker | [Link](https://github.com/stephenbeckr/ML-theory-class) | 🔲 Not Started |
-| Bayesian ML and Info Processing | Technical Bayesian theory course | [Link](https://biaslab.github.io/teaching/bmlip/) | 🔲 Not Started |
-| Advanced Topics in ML | RKHS and Gaussian Process theory | [Link](https://www.gatsby.ucl.ac.uk/~gretton/coursefiles/rkhscourse.html) | 🔲 Not Started |
-| Reproducing Kernel Hilbert Space | RKHS in analytic function spaces | [Link](http://www.fields.utoronto.ca/activities/21-22/function-course-II) | 🔲 Not Started |
-
----
-
-## 🔹 Deep Learning
-
-| Course | Description | Link | Progress |
-|--------|-------------|------|----------|
-| DEEP LEARNING · Deep Learning | Comprehensive course by Alfredo Canziani | [Link](https://atcold.github.io/NYU-DLSP20/) | 🔲 Not Started |
-| INFO8010 Lecture 1: Fundamentals of ML | Deep learning overview | [Link](https://www.youtube.com/watch?v=GwpG0sHPklE&list=PLLqXZ_E-UXlyGPyiWStnC_Y0iizSv5jsG&index=3) | 🔲 Not Started |
-| Deep Learning Drizzle | DL, RL, CV & NLP curated content | [Link](https://github.com/kmario23/deep-learning-drizzle) | 🔲 Not Started |
-| DeepCourse | Open DL course by Arthur Douillard | [Link](https://arthurdouillard.com/deepcourse/) | 🔲 Not Started |
-| CS1470 - Deep Learning | Brown University’s DL course | [Link](https://brown-deep-learning.github.io/dl-website-s24/#home) | 🔲 Not Started |
-| Applied Deep Learning | By Maziar Raissi | [Link](https://github.com/maziarraissi/Applied-Deep-Learning) | 🔲 Not Started |
+## 📚 Table of Contents
+- [Mathematics for ML](#-mathematics-for-ml)
+- [Machine Learning Theory](#-machine-learning-theory)
+- [Deep Learning](#-deep-learning)
+- [Language Models & NLP](#-language-models--nlp)
+- [Generative AI & LLMs](#-generative-ai--llms)
+- [Scientific ML / Physics-based ML](#-scientific-ml--physics-based-ml)
+- [Reinforcement Learning](#-reinforcement-learning)
+- [Computer Vision](#-computer-vision)
+- [Robotics & AI Systems](#-robotics--ai-systems)
+- [Software Engineering & Tools](#-software-engineering--tools)
+- [How to Use](#-how-to-use)
+- [Contributing](#-contributing)
+- [Acknowledgments](#-acknowledgments)
 
 ---
 
-## 🔹 Language Models & NLP
+## 🔢 Mathematics for ML
 
-| Course | Description | Link | Progress |
-|--------|-------------|------|----------|
-| Stanford CS336 | Language Modeling from Scratch | [Link](https://stanford-cs336.github.io/spring2024/index.html#coursework) | 🔲 Not Started |
-| CMU Advanced NLP S2025 | Advanced NLP topics and resources | [Link](https://cmu-l3.github.io/anlp-spring2025/?s=09#details) | 🔲 Not Started |
+Foundational mathematics courses to build a strong base for machine learning.
 
----
-
-## 🔹 Generative AI & LLMs
-
-| Course | Description | Link | Progress |
-|--------|-------------|------|----------|
-| Generative AI 2025 | YouTube playlist on GenAI methods | [Link](https://youtube.com/playlist?list=PLZ2ps__7DhBa5xCmncgH7kPqLqMBq7xlu) | 🔲 Not Started |
-| Learning in Undirected Models | CS228 notes on graphical models | [Link](https://ermongroup.github.io/cs228-notes/learning/undirected/) | 🔲 Not Started |
-| GenAI Handbook | Deep dives into structured state-space models | [Link](https://genai-handbook.github.io/#structured-state-space-models) | 🔲 Not Started |
-| LLM Course | Colab-based learning roadmap | [Link](https://github.com/mlabonne/llm-course) | 🔲 Not Started |
+| Course | Description | Link |
+|--------|-------------|------|
+| **Boosting Python (PDE MOOC)** | Learn iterative methods for numerical Partial Differential Equations (PDEs) with Python. | [Link](https://aquaulb.github.io/book_solving_pde_mooc/solving_pde_mooc/notebooks/05_IterativeMethods/05_03_Boosting_Python.html) |
+| **EPFL Mathematics of Data** | Explore the mathematical theories underpinning data analysis and computation. | [Link](https://www.epfl.ch/labs/lions/teaching/ee-556-mathematics-of-data-from-theory-to-computation/slides-2024/?s=09) |
+| **MIT Matrix Calculus** | Dive into matrix calculus techniques from MIT’s IAP 2023 course. | [Link](https://www.youtube.com/playlist?list=PLUl4u3cNGP62EaLLH92E_VCN4izBKK6OE) |
+| **Numerical Algorithms** | Study numerical methods and algorithms from KAIST. | [Link](https://github.com/anar-rzayev/Numerical-Algorithms) |
 
 ---
 
-## 🔹 Scientific ML / Physics-based ML
+## 🧠 Machine Learning Theory
 
-| Course | Description | Link | Progress |
-|--------|-------------|------|----------|
-| PDE & Finite Difference | Scientific ML foundations | [Link](https://kks32-courses.github.io/sciml/lectures/04-pde-fdm/04-pde-fdm.html) | 🔲 Not Started |
-| Solving PDEs MOOC | Numerical solution of PDEs | [Link](https://aquaulb.github.io/book_solving_pde_mooc/solving_pde_mooc/notebooks/01_Introduction/01_00_Preface.html) | 🔲 Not Started |
-| Physics-Informed ML | ML + physical modeling | [Link](https://composites.uw.edu/AI/) | 🔲 Not Started |
-| Diffusion Models, ETH | Sampling & stochastic models | [Link](https://metaphor.ethz.ch/x/2024/fs/401-4634-24L/) | 🔲 Not Started |
-| SciML Book | MIT’s scientific ML textbook | [Link](https://github.com/SciML/SciMLBook) | 🔲 Not Started |
+Deepen your understanding of the theoretical foundations of machine learning.
 
----
-
-## 🔹 Reinforcement Learning
-
-| Course | Description | Link | Progress |
-|--------|-------------|------|----------|
-| Spinning Up in RL | OpenAI RL algorithms guide | [Link](https://spinningup.openai.com/en/latest/user/algorithms.html) | 🔲 Not Started |
-| Math Foundations of RL | Book on theoretical RL grounding | [Link](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) | 🔲 Not Started |
+| Course | Description | Link |
+|--------|-------------|------|
+| **ML Theory Class** | A theoretical ML course by Stephen Becker, covering core concepts. | [Link](https://github.com/stephenbeckr/ML-theory-class) |
+| **Bayesian ML and Info Processing** | Technical course on Bayesian methods for ML and information processing. | [Link](https://biaslab.github.io/teaching/bmlip/) |
+| **Advanced Topics in ML** | Explore Reproducing Kernel Hilbert Spaces (RKHS) and Gaussian Processes. | [Link](https://www.gatsby.ucl.ac.uk/~gretton/coursefiles/rkhscourse.html) |
+| **Reproducing Kernel Hilbert Space** | Study RKHS in the context of analytic function spaces. | [Link](http://www.fields.utoronto.ca/activities/21-22/function-course-II) |
 
 ---
 
-## 🔹 Computer Vision
+## 🔥 Deep Learning
 
-| Course | Description | Link | Progress |
-|--------|-------------|------|----------|
-| Tubingen Computer Vision | Computer Vision course from the University of Tübingen | [Link](https://github.com/daijun10086/Tubingen_ComputerVision) | 🔲 Not Started |
+Comprehensive resources for mastering deep learning techniques.
+
+| Course | Description | Link |
+|--------|-------------|------|
+| **Deep Learning by Alfredo Canziani** | A thorough NYU course covering deep learning fundamentals. | [Link](https://atcold.github.io/NYU-DLSP20/) |
+| **INFO8010: Fundamentals of ML** | An introductory lecture series on deep learning concepts. | [Link](https://www.youtube.com/watch?v=GwpG0sHPklE&list=PLLqXZ_E-UXlyGPyiWStnC_Y0iizSv5jsG&index=3) |
+| **Deep Learning Drizzle** | Curated content on DL, RL, CV, and NLP. | [Link](https://github.com/kmario23/deep-learning-drizzle) |
+| **DeepCourse** | Open deep learning course by Arthur Douillard. | [Link](https://arthurdouillard.com/deepcourse/) |
+| **CS1470 - Deep Learning** | Brown University’s comprehensive deep learning curriculum. | [Link](https://brown-deep-learning.github.io/dl-website-s24/#home) |
+| **Applied Deep Learning** | Practical deep learning applications by Maziar Raissi. | [Link](https://github.com/maziarraissi/Applied-Deep-Learning) |
 
 ---
 
-## 🔹 Robotics & AI Systems
+## 🗣 Language Models & NLP
 
-| Course | Description | Link | Progress |
-|--------|-------------|------|----------|
-| AI4ALL - Robotics | Robotics and AI in education | [Link](https://ancorso.github.io/teaching/ai4all) | 🔲 Not Started |
+Courses focused on natural language processing and language models.
+
+| Course | Description | Link |
+|--------|-------------|------|
+| **Stanford CS336** | Build language models from scratch with Stanford’s course. | [Link](https://stanford-cs336.github.io/spring2024/index.html#coursework) |
+| **CMU Advanced NLP S2025** | Advanced topics in NLP from Carnegie Mellon University. | [Link](https://cmu-l3.github.io/anlp-spring2025/?s=09#details) |
 
 ---
 
-## 🔹 Software Engineering & Tools
+## ✨ Generative AI & LLMs
 
-| Course | Description | Link | Progress |
-|--------|-------------|------|----------|
-| Research Software Engineering with Python | Turing Institute course | [Link](https://alan-turing-institute.github.io/rse-course/html/index.html) | 🔲 Not Started |
-| RSE GitHub Repo | Companion material for above | [Link](https://github.com/alan-turing-institute/rse-course) | 🔲 Not Started |
+Resources for understanding generative AI and large language models.
+
+| Course | Description | Link |
+|--------|-------------|------|
+| **Generative AI 2025** | YouTube playlist exploring generative AI methods. | [Link](https://youtube.com/playlist?list=PLZ2ps__7DhBa5xCmncgH7kPqLqMBq7xlu) |
+| **Learning in Undirected Models** | CS228 notes on undirected graphical models. | [Link](https://ermongroup.github.io/cs228-notes/learning/undirected/) |
+| **GenAI Handbook** | In-depth guide to structured state-space models. | [Link](https://genai-handbook.github.io/#structured-state-space-models) |
+| **LLM Course** | Colab-based roadmap for learning large language models. | [Link](https://github.com/mlabonne/llm-course) |
+
+---
+
+## ⚛️ Scientific ML / Physics-based ML
+
+Courses blending machine learning with scientific and physical modeling.
+
+| Course | Description | Link |
+|--------|-------------|------|
+| **PDE & Finite Difference** | Foundations of scientific ML with PDEs and finite differences. | [Link](https://kks32-courses.github.io/sciml/lectures/04-pde-fdm/04-pde-fdm.html) |
+| **Solving PDEs MOOC** | Learn numerical methods for solving PDEs. | [Link](https://aquaulb.github.io/book_solving_pde_mooc/solving_pde_mooc/notebooks/01_Introduction/01_00_Preface.html) |
+| **Physics-Informed ML** | Combine ML with physical modeling techniques. | [Link](https://composites.uw.edu/AI/) |
+| **Diffusion Models, ETH** | Study sampling and stochastic models at ETH Zurich. | [Link](https://metaphor.ethz.ch/x/2024/fs/401-4634-24L/) |
+| **SciML Book** | MIT’s textbook on scientific machine learning. | [Link](https://github.com/SciML/SciMLBook) |
+
+---
+
+## 🎮 Reinforcement Learning
+
+Resources for learning reinforcement learning algorithms and theory.
+
+| Course | Description | Link |
+|--------|-------------|------|
+| **Spinning Up in RL** | OpenAI’s guide to reinforcement learning algorithms. | [Link](https://spinningup.openai.com/en/latest/user/algorithms.html) |
+| **Math Foundations of RL** | Theoretical grounding in RL with a mathematical focus. | [Link](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) |
+
+---
+
+## 👁 Computer Vision
+
+Courses on computer vision techniques and applications.
+
+| Course | Description | Link |
+|--------|-------------|------|
+| **Tübingen Computer Vision** | Comprehensive computer vision course from the University of Tübingen. | [Link](https://github.com/daijun10086/Tubingen_ComputerVision) |
+
+---
+
+## 🤖 Robotics & AI Systems
+
+Explore the intersection of AI and robotics.
+
+| Course | Description | Link |
+|--------|-------------|------|
+| **AI4ALL - Robotics** | Introduction to robotics and AI for educational purposes. | [Link](https://ancorso.github.io/teaching/ai4all) |
+
+---
+
+## 🛠 Software Engineering & Tools
+
+Tools and practices for research and software development in AI.
+
+| Course | Description | Link |
+|--------|-------------|------|
+| **Research Software Engineering with Python** | Turing Institute’s course on software engineering for research. | [Link](https://alan-turing-institute.github.io/rse-course/html/index.html) |
+| **RSE GitHub Repo** | Companion materials for the RSE course. | [Link](https://github.com/alan-turing-institute/rse-course) |
 
 ---
 
 ## 🧭 How to Use
 
-- Clone or fork the repo.
-- Track your progress by changing `🔲 Not Started` to `✅ In Progress` or `✅ Completed`.
-- Feel free to suggest new links via pull requests.
+1. **Clone or Fork**: Get started by cloning or forking this repository.
+2. **Explore Courses**: Browse the categorized courses and click links to access materials.
+3. **Contribute**: Add new courses or improve existing entries via pull requests.
+4. **Track Progress**: Use a personal copy to mark courses as "In Progress" or "Completed" in your fork.
 
 ---
 
-## 🙌 Contributions Welcome
+## 🙌 Contributing
 
-Feel free to:
-- Add new high-quality open-access courses.
-- Suggest better categorization or descriptions.
-- Fix dead links.
+We welcome contributions to make this resource even better! Here’s how you can help:
+- **Add Courses**: Submit high-quality, open-access courses via pull requests.
+- **Improve Descriptions**: Suggest clearer or more detailed course descriptions.
+- **Fix Links**: Report and fix any broken or outdated links.
+- **Categorize**: Propose new categories or reorganize existing ones for better clarity.
+
+To contribute:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/add-course`).
+3. Make your changes and commit (`git commit -m "Add new course"`).
+4. Push to your branch (`git push origin feature/add-course`).
+5. Open a pull request with a clear description of your changes.
 
 ---
 
 ## 📌 Acknowledgments
 
-Credit goes to the institutions, instructors, and open course creators.
+A huge thank you to the universities, researchers, and open course creators who make these resources freely available. 
 ---
