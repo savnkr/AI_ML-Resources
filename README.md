@@ -55,8 +55,7 @@ Comprehensive resources for mastering deep learning techniques.
 | Course | Description | Link |
 |--------|-------------|------|
 | **Deep Learning by Alfredo Canziani** | A thorough NYU course covering deep learning fundamentals. | [Link](https://atcold.github.io/NYU-DLSP20/) |
-| **INFO8010: Fundamentals of ML** | An introductory lecture series on deep learning concepts. | [Link](https://www.youtube.com/watch?v=GwpG0sHPklE&list=PLLqXZ_E-UXlyGPyiWStnC_Y0iizSv5jsG&index=3) |
-| **Deep Learning Drizzle** | Curated content on DL, RL, CV, and NLP. | [Link](https://github.com/kmario23/deep-learning-drizzle) |
+| **Fundamentals of ML** | An introductory lecture series on deep learning concepts. | [Link](https://www.youtube.com/watch?v=GwpG0sHPklE&list=PLLqXZ_E-UXlyGPyiWStnC_Y0iizSv5jsG&index=3) |
 | **DeepCourse** | Open deep learning course by Arthur Douillard. | [Link](https://arthurdouillard.com/deepcourse/) |
 | **CS1470 - Deep Learning** | Brown University’s comprehensive deep learning curriculum. | [Link](https://brown-deep-learning.github.io/dl-website-s24/#home) |
 | **Applied Deep Learning** | Practical deep learning applications by Maziar Raissi. | [Link](https://github.com/maziarraissi/Applied-Deep-Learning) |
