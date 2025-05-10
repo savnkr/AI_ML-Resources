@@ -147,8 +147,6 @@ Tools and practices for research and software development in AI.
 1. **Clone or Fork**: Get started by cloning or forking this repository.
 2. **Explore Courses**: Browse the categorized courses and click links to access materials.
 3. **Contribute**: Add new courses or improve existing entries via pull requests.
-4. **Track Progress**: Use a personal copy to mark courses as "In Progress" or "Completed" in your fork.
-
 ---
 
 ## 🙌 Contributing
@@ -157,7 +155,6 @@ We welcome contributions to make this resource even better! Here’s how you can
 - **Add Courses**: Submit high-quality, open-access courses via pull requests.
 - **Improve Descriptions**: Suggest clearer or more detailed course descriptions.
 - **Fix Links**: Report and fix any broken or outdated links.
-- **Categorize**: Propose new categories or reorganize existing ones for better clarity.
 
 To contribute:
 1. Fork the repository.
