@@ -1,6 +1,7 @@
-# 🚀 AI & Machine Learning Course Hub
+# 🚀 My AI & Machine Learning Learning Journey
 
-Welcome to the **AI & Machine Learning Course Hub**, a meticulously curated collection of top-tier courses on Artificial Intelligence, Machine Learning, and related fields. Sourced from leading universities, renowned researchers, and open-access platforms, this repository is your one-stop resource for advancing your knowledge in AI and ML.
+Hi, I'm a PhD student passionate about Artificial Intelligence and Machine Learning! This **AI & Machine Learning Course Hub** is a personal collection of top-tier courses that have shaped my journey over the past few years. Carefully curated from leading universities, brilliant researchers, and open-access platforms, these resources reflect my ongoing learning. Whether you're a beginner or a seasoned learner, I hope this hub inspires and supports your own AI/ML adventure!
+
 
 ---
 
