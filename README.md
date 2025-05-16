@@ -150,7 +150,7 @@ Tools and practices for research and software development in AI.
 
 ## 🙌 Contributing
 
-We welcome contributions to make this resource even better! Here’s how you can help:
+I welcome contributions to make this resource even better! Here’s how you can help:
 - **Add Courses**: Submit high-quality, open-access courses via pull requests.
 - **Improve Descriptions**: Suggest clearer or more detailed course descriptions.
 - **Fix Links**: Report and fix any broken or outdated links.
@@ -166,5 +166,5 @@ To contribute:
 
 ## 📌 Acknowledgments
 
-A huge thank you to the universities, researchers, and open course creators who make these resources freely available. 
+- A huge thanks to the universities, researchers, and open course creators who make these resources freely available. 
 ---
