@@ -148,22 +148,6 @@ Tools and practices for research and software development in AI.
 3. **Contribute**: Add new courses or improve existing entries via pull requests.
 ---
 
-## 🙌 Contributing
-
-I welcome contributions to make this resource even better! Here’s how you can help:
-- **Add Courses**: Submit high-quality, open-access courses via pull requests.
-- **Improve Descriptions**: Suggest clearer or more detailed course descriptions.
-- **Fix Links**: Report and fix any broken or outdated links.
-
-To contribute:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/add-course`).
-3. Make your changes and commit (`git commit -m "Add new course"`).
-4. Push to your branch (`git push origin feature/add-course`).
-5. Open a pull request with a clear description of your changes.
-
----
-
 ## 📌 Acknowledgments
 
 - A huge thanks to the universities, researchers, and open course creators who make these resources freely available. 
